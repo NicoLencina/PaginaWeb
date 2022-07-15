@@ -12,7 +12,7 @@ p {
 .titulo {
   text-align: center; /*alineacion de texto*/
   font-size: 70%; /*tamaño del texto*/
-  background-color: rgb(10, 36, 114); /*color de fondo*/
+  background-color: #112f74; /*color de fondo*/
   height: 10%;
   width: 90%;
   color: white; /*color letra*/
@@ -21,6 +21,7 @@ p {
   border: 3px solid black; /*color de borde*/
 }
 .izq {
+  background-color: #1d3f8e(opacity=50%);
   text-align: left;
   border: 3px solid black;
   width: 55%;
