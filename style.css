@@ -1,0 +1,15 @@
+body {
+  background-image: url(image/fondo.jpg);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-size: cover;
+  background-size: 100vw;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+p {
+  background-color: gray;
+}
+.titulo {
+  text-align: center;
+}
