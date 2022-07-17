@@ -14,6 +14,7 @@ p {
 div {
   background-color: #3a579b;
   margin: 2%;
+  width: 95%;
 }
 h2 {
   color: black;
@@ -39,12 +40,10 @@ h2 {
 
 .abajo {
   border: 3px solid black;
-  width: 100%;
   text-align: center;
 }
 .pieDePagina {
   border: 3px solid black;
-  width: 100%;
   background-color: darkred;
   color: black;
 }
