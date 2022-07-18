@@ -48,6 +48,9 @@ h2 {
 #islaBasura {
   width: 53vw;
 }
+#link {
+  color: darkred;
+}
 .pieDePagina {
   border: 3px solid black;
   background-color: darkred;
